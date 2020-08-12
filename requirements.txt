@@ -19,10 +19,10 @@ Pillow==4.2.1
 pypng==0.0.18
 PyQRCode==1.1
 python3-memcached==1.51
-requests==2.18.4
+requests==2.20
 ua-parser==0.3.6
 Unidecode==0.4.18
-urllib3==1.22
+urllib3==1.24.3
 user-agents==0.3.2
 webencodings==0.5.1
 Petrovich==1.0.0
