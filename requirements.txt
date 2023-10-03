@@ -22,7 +22,7 @@ python3-memcached==1.51
 requests==2.18.4
 ua-parser==0.3.6
 Unidecode==0.4.18
-urllib3==1.22
+urllib3==1.26.17
 user-agents==0.3.2
 webencodings==0.5.1
 Petrovich==1.0.0
@@ -34,3 +34,6 @@ social-auth-app-django==1.2.0
 vk==2.0.2
 psycopg2==2.6.1
 django-nested-inline==0.3.7
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
