@@ -34,3 +34,4 @@ social-auth-app-django==1.2.0
 vk==2.0.2
 psycopg2==2.6.1
 django-nested-inline==0.3.7
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
