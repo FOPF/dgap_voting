@@ -12,7 +12,7 @@ django-flat-responsive==2.0
 django-sitetree==1.8.0
 dealer==2.0.5
 docxtpl==0.3.9
-gunicorn==19.7.1
+gunicorn==21.2.0
 html5lib==0.999999999
 olefile==0.44
 Pillow==4.2.1
